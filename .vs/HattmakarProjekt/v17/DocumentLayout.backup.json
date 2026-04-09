@@ -1,7 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felix\\source\\repos\\HattmakarProjekt\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\felix\\Documents\\GitHub\\HattmakarProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3801DBE7-9E1E-4E3C-ABE6-A84579ADEFC8}|..\\IK207G\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\felix\\documents\\github\\ik207g\\businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAAFA6-AE29-41A9-86BC-A1278C111445}|..\\IK207G\\DataLayer\\DataLayer.csproj|c:\\users\\felix\\documents\\github\\ik207g\\datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFBC7E-1D81-415C-A2A9-2A5B55DE1E16}|..\\IK207G\\PresentationsLayer\\PresentationsLayer.csproj|c:\\users\\felix\\documents\\github\\ik207g\\presentationslayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +19,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,6 +36,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\IK207G\\BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\IK207G\\BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:26:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\DataLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\IK207G\\DataLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\DataLayer\\Class1.cs",
+              "RelativeToolTip": "..\\IK207G\\DataLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:26:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\PresentationsLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\IK207G\\PresentationsLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\felix\\Documents\\GitHub\\IK207G\\PresentationsLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\IK207G\\PresentationsLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:25:24.871Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
